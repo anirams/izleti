@@ -16,16 +16,8 @@
 	text-decoration: underline;
 }
 
-form {
-	margin-top: 0.7em;
-}
-
-label {
-	color: #5ca34c;
-}
-
 .login-button {
-	margin: 0.5em;
+	margin: 0.5em 0.5em 0.5em 0.5em;
 	background-color: #5ca34c;
 	color: white;
 }
@@ -36,9 +28,7 @@ label {
 	/*color: #335a2a;*/
 }
 
-
-#registracija {
-	color: #5ca34c;
-	padding: 0.5em;
+.glavni {
+	
 }
 
