@@ -1,0 +1,26 @@
+.navbar {
+	border-bottom: 4px solid #5ca34c;
+}
+
+.container-fluid {
+	pad
+}
+
+.logo {
+	max-width: 200px;
+}
+
+.nav-link {
+	font-size: 1.5em;
+	color: #5ca34c;
+}
+
+.nav-link:hover {
+	color: #335a2a;
+}
+
+#registracija {
+	color: #5ca34c;
+	padding: 0.5em;
+}
+
